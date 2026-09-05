@@ -57,3 +57,11 @@ Auf der Zielhardware wurden erfolgreich geprüft:
 5. Wiederherstellung des vorherigen Hardwaremodus beim Beenden
 
 Ein Langzeittest steht noch aus.
+
+⚠️ WARNUNG
+
+Dieses Plugin greift direkt auf die RGB-Steuerung der ASUS TUF RX 9070 XT OC zu. Die Nutzung erfolgt auf eigene Verantwortung.
+
+Schnell wechselnde oder sehr häufige RGB-Effekte können innerhalb kurzer Zeit viele Hardware-Schreibzugriffe erzeugen. Dies kann zu erhöhter Systemlast führen und sollte insbesondere bei experimentellen Effekten berücksichtigt werden.
+
+🔒 Sicherheitstipp: Für die ersten Tests einfache, langsame Effekte verwenden und die Schreibfrequenz niedrig halten. Bei ungewöhnlichem Verhalten das Plugin sofort deaktivieren.
